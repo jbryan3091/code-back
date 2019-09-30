@@ -1,0 +1,16 @@
+{
+    "users": [
+    {
+        "id": 0,
+        "name": "Jim Dios"
+    },
+    {
+        "id": 1,
+        "name": "Diana Pareja"
+    },
+    {
+        "id": 2,
+        "name": "Claudia Bayro"
+    }
+]
+}
